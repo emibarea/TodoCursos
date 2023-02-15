@@ -11,6 +11,15 @@ const data = [
   },
   {
     imagen:
+      "https://static-media.hotmart.com/u-_EtRbO-kM_2qVAEWGLuzq9qg0=/filters:background_color(white)/hotmart/product_pictures/e72000b6-7f74-4af2-a84c-b8d96abc6fd4/claraflyer.png",
+    titulo: "Nails Artist EXPERT",
+    descripcion:
+      "Este curso está diseñado para aprender desde 0 y para profesionales que deseen actualizar sus técnicas.",
+    link: "https://go.hotmart.com/C79668849R?dp=1",
+    verMas: "https://go.hotmart.com/C79668849R",
+  },
+  {
+    imagen:
       "https://static-media.hotmart.com/NPaVEiPM3NRuc6I6nvw2z1pgDY0=/295x165/smart/filters:quality(100)/hotmart/product_pictures/280329c7-c501-4687-8eda-212b70314f8d/mockup360oanalista.png",
     titulo: "ANALISTA 360",
     descripcion:
@@ -79,6 +88,7 @@ const data = [
     link: "https://go.hotmart.com/R79727684A?dp=1",
     verMas: "https://go.hotmart.com/R79727684A",
   },
+
   // {
   //   imagen: "",
   //   titulo: "",
