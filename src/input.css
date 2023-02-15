@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+  --v-1: #275950;
+  --v-2: #2a8c82;
+  --v-3: #41bfb3;
+  --v-4: #88f2e8;
+  --o-1: #260101;
+}
+html {
+  overflow-x: hidden;
+}
+* {
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+.prueba {
+  padding: 1.5rem !important;
+}
