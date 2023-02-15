@@ -50,10 +50,14 @@ function Cursos({ data, tCurso }) {
                 </div>
                 <div className="h-2/5 w-full flex justify-around items-center ">
                   <button className=" p-3 border border-[#41bfb3]  rounded-lg hover:bg-[#41bfb3] hover:text-white easy-in duration-500">
-                    Ver mas
+                    <a href={e.verMas} target="_blank">
+                      Ver mas
+                    </a>
                   </button>
                   <button className=" p-3 bg-[#41bfb3] border border-[#41bfb3] rounded-lg text-white hover:bg-white hover:text-black easy-in duration-500">
-                    Comprar
+                    <a href={e.link} target="_blank">
+                      Comprar
+                    </a>
                   </button>
                 </div>
               </div>
